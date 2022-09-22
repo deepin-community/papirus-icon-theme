@@ -1,0 +1,273 @@
+papirus-icon-theme (20211101-1) unstable; urgency=medium
+
+  * New upstream release 20211101.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 02 Nov 2021 10:29:46 -0400
+
+papirus-icon-theme (20211001-1) unstable; urgency=medium
+
+  * New upstream release 20211001.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 05 Oct 2021 00:49:54 -0400
+
+papirus-icon-theme (20210901-1) unstable; urgency=medium
+
+  * New upstream release 20210901.
+  * Bump Standards-Version to 4.6.0.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 03 Sep 2021 00:50:32 -0400
+
+papirus-icon-theme (20210802-1) unstable; urgency=medium
+
+  * New upstream release 20210802.
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 14 Aug 2021 23:55:23 -0400
+
+papirus-icon-theme (20210401-1~exp1) experimental; urgency=medium
+
+  * New upstream release 20210401.
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 03 Apr 2021 23:41:48 -0400
+
+papirus-icon-theme (20210201-1) unstable; urgency=medium
+
+  * New upstream release 20210201.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 05 Feb 2021 14:56:29 -0500
+
+papirus-icon-theme (20210101-1) unstable; urgency=medium
+
+  * New upstream release 20210101.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 08 Jan 2021 23:35:52 -0500
+
+papirus-icon-theme (20201201-1) unstable; urgency=medium
+
+  * New upstream release 20201201. 
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 02 Dec 2020 18:41:17 -0500
+
+papirus-icon-theme (20201001-1) unstable; urgency=medium
+
+  * New upstream release 20201001. 
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 04 Oct 2020 10:11:16 -0400
+
+papirus-icon-theme (20200901-1) unstable; urgency=medium
+
+  * New upstream release 20200901.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 02 Sep 2020 19:05:29 -0400
+
+papirus-icon-theme (20200801-1) unstable; urgency=medium
+
+  * New upstream release 20200801.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 04 Aug 2020 22:17:29 -0400
+
+papirus-icon-theme (20200702-1) unstable; urgency=medium
+
+  * New upstream release 20200702.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 03 Jul 2020 12:56:51 -0400
+
+papirus-icon-theme (20200602-1) unstable; urgency=medium
+
+  * New upstream release 20200602. 
+
+ -- Boyuan Yang <byang@debian.org>  Thu, 04 Jun 2020 19:48:16 -0400
+
+papirus-icon-theme (20200430-1) unstable; urgency=medium
+
+  * New upstream release 20200430.
+  * debian/control: Bump debhelper compat to v13.
+  * debian/rules: Remove CFLAGS, LDFLAGS and hardening instructions,
+    useless with icon theme package.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 01 May 2020 08:44:54 -0400
+
+papirus-icon-theme (20200405-1) unstable; urgency=medium
+
+  * New upstream release 20200405.
+
+ -- Boyuan Yang <byang@debian.org>  Thu, 09 Apr 2020 14:12:05 -0400
+
+papirus-icon-theme (20200301-1) unstable; urgency=medium
+
+  * New upstream release 20200301.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 10 Mar 2020 14:33:03 -0400
+
+papirus-icon-theme (20200201-1) unstable; urgency=high
+
+  * New upstream release 20200201. 
+  * debian/control: Bump Standards-Version to 4.5.0.
+
+ -- Boyuan Yang <byang@debian.org>  Thu, 06 Feb 2020 22:37:42 -0500
+
+papirus-icon-theme (20200102-1) unstable; urgency=medium
+
+  * New upstream release 20200102.
+  * debian/source/options: Removed, useless.
+
+ -- Boyuan Yang <byang@debian.org>  Mon, 06 Jan 2020 11:10:28 -0500
+
+papirus-icon-theme (20191201-1) unstable; urgency=medium
+
+  * New upstream release 20191201. 
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 04 Dec 2019 15:01:34 -0500
+
+papirus-icon-theme (20191101-1) unstable; urgency=medium
+
+  * New upstream release 20191101.
+  * debian/control: Add Debian Desktop Themes Team into
+    uploaders list.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 13 Nov 2019 18:17:52 -0500
+
+papirus-icon-theme (20191009-1) unstable; urgency=medium
+
+  * New upstream release 20191009.
+  * debian/control: Bump Standards-Version to 4.4.1.
+
+ -- Boyuan Yang <byang@debian.org>  Thu, 10 Oct 2019 23:22:48 -0400
+
+papirus-icon-theme (20190919-1) unstable; urgency=medium
+
+  * New upstream release 20190919.
+  * debian/rules: Explicitly do not compress any SVG files to
+    prevent potential unexpected compression in the future.
+
+ -- Boyuan Yang <byang@debian.org>  Mon, 23 Sep 2019 19:04:08 -0400
+
+papirus-icon-theme (20190817-1) unstable; urgency=medium
+
+  * New upstream release 20190817.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 20 Aug 2019 14:08:25 -0400
+
+papirus-icon-theme (20190720-1) unstable; urgency=medium
+
+  * New upstream release 20190720.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 30 Jul 2019 10:38:43 -0400
+
+papirus-icon-theme (20190708-2) unstable; urgency=medium
+
+  * Update package description to remove Papirus-Adapta
+    and Papirus-Adapta-Nokto. (Closes: #916366)
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 14 Jul 2019 13:55:28 -0400
+
+papirus-icon-theme (20190708-1) unstable; urgency=medium
+
+  * New upstream release 20190708.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 10 Jul 2019 14:36:38 -0400
+
+papirus-icon-theme (20190701-1) unstable; urgency=medium
+
+  * New upstream release 20190701.
+  * debian/control: Bump Standards-Version to 4.4.0.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 09 Jul 2019 11:55:11 -0400
+
+papirus-icon-theme (20190203-1) unstable; urgency=medium
+
+  * New upstream release 20190203.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 22 Feb 2019 12:19:21 -0500
+
+papirus-icon-theme (20190106-1) unstable; urgency=medium
+
+  * New upstream release 20190106.
+  * debian/control:
+    + Bump Standards-Version to 4.3.0 (no changes needed).
+    + Bump debhelper compat to v12.
+
+ -- Boyuan Yang <byang@debian.org>  Thu, 10 Jan 2019 15:34:31 -0500
+
+papirus-icon-theme (20181120-1) unstable; urgency=medium
+
+  * New upstream release 20181120.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 07 Dec 2018 22:27:28 -0500
+
+papirus-icon-theme (20181007-1) unstable; urgency=medium
+
+  * New upstream release 20181007.
+  * debian/control:
+    + Bump Standards-Version to 4.2.1 (no changes needed).
+    + Update my uploader email address and use the @debian.org one.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 10 Oct 2018 15:30:34 -0400
+
+papirus-icon-theme (20180816-1) unstable; urgency=medium
+
+  * New upstream release 20180816.
+  * debian/control: Bump Standards-Version to 4.2.0 (no changes needed)
+
+ -- Boyuan Yang <073plan@gmail.com>  Thu, 23 Aug 2018 15:01:13 -0400
+
+papirus-icon-theme (20180720-1) unstable; urgency=medium
+
+  * New upstream version 20180720
+  * debian/control: Bump Standards-Version to 4.1.5 (no changes needed)
+
+ -- Boyuan Yang <073plan@gmail.com>  Fri, 20 Jul 2018 18:20:36 +0800
+
+papirus-icon-theme (20180601-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Boyuan Yang <073plan@gmail.com>  Sat, 02 Jun 2018 21:41:34 +0800
+
+papirus-icon-theme (20180501-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Revert changes about maintainer mail address.
+
+ -- Boyuan Yang <073plan@gmail.com>  Sat, 05 May 2018 20:41:12 +0800
+
+papirus-icon-theme (20180401-2) unstable; urgency=medium
+
+  * Use team+pkg-deepin@tracker.debian.org in maintainer field.
+  * Bump Standards-Version to 4.1.4 (no changes needed).
+
+ -- Boyuan Yang <073plan@gmail.com>  Sun, 22 Apr 2018 20:41:15 +0800
+
+papirus-icon-theme (20180401-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Boyuan Yang <073plan@gmail.com>  Fri, 06 Apr 2018 09:53:23 +0800
+
+papirus-icon-theme (20180311-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Boyuan Yang <073plan@gmail.com>  Tue, 13 Mar 2018 22:16:58 +0800
+
+papirus-icon-theme (20180214-1) unstable; urgency=medium
+
+  * New upstream release.
+  * d/rules: Fix lintian error.
+
+ -- Boyuan Yang <073plan@gmail.com>  Mon, 19 Feb 2018 15:47:41 +0800
+
+papirus-icon-theme (20180201-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump debhelper compat to v11.
+  * Bump Standards-Version to 4.1.3.
+  * Move under pkg-deepin team maintenance.
+  * d/control: Update package description.
+
+ -- Boyuan Yang <073plan@gmail.com>  Thu, 01 Feb 2018 18:32:45 +0800
+
+papirus-icon-theme (20171223-1) unstable; urgency=medium
+
+  * Initial release (Closes: #883644)
+
+ -- Yangfl <mmyangfl@gmail.com>  Wed, 10 Jan 2018 00:06:50 +0800
