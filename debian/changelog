@@ -1,3 +1,9 @@
+papirus-icon-theme (20211101-1deepin1) UNRELEASED; urgency=medium
+
+  * feat: Update xorg.svg by deepin design
+
+ -- hudeng <hudeng@deepin.org>  Tue, 05 Mar 2024 20:09:50 +0800
+
 papirus-icon-theme (20211101-1) unstable; urgency=medium
 
   * New upstream release 20211101.
