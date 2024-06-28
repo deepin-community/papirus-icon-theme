@@ -2,6 +2,7 @@
 Name=Papirus-Light
 Comment=Papirus icon theme for bright themes
 Inherits=breeze,hicolor
+Hidden=true
 
 Example=folder
 

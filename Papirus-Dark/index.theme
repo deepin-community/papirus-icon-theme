@@ -2,6 +2,7 @@
 Name=Papirus-Dark
 Comment=Papirus icon theme for dark themes
 Inherits=breeze-dark,hicolor
+Hidden=true
 
 Example=folder
 

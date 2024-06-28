@@ -2,6 +2,7 @@
 Name=Papirus
 Comment=Papirus icon theme
 Inherits=breeze,hicolor
+Hidden=true
 
 Example=folder
 

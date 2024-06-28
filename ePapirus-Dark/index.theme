@@ -2,6 +2,7 @@
 Name=ePapirus-Dark
 Comment=Papirus Dark icon theme for elementary OS
 Inherits=elementary,hicolor
+Hidden=true
 
 Example=folder
 

@@ -2,6 +2,7 @@
 Name=ePapirus
 Comment=Papirus icon theme for elementary OS
 Inherits=elementary,hicolor
+Hidden=true
 
 Example=folder
 
